@@ -184,29 +184,3 @@ function handleKeyPress(e) {
 
 window.onload = init;
 
-// controller.proccesGuess("B0");
-// controller.proccesGuess("C0");
-// controller.proccesGuess("D0");
-
-// controller.proccesGuess("B5");
-// controller.proccesGuess("C4");
-// controller.proccesGuess("F0");
-
-// controller.proccesGuess("D2");
-// controller.proccesGuess("D3");
-// controller.proccesGuess("D4");
-
-// controller.proccesGuess("G3");
-// controller.proccesGuess("G4");
-// controller.proccesGuess("G5");
-
-
-// console.log(parceGuess('A0'));
-// console.log(parceGuess('B6'));
-// console.log(parceGuess('G3'));
-// console.log(parceGuess('H0'));
-// console.log(parceGuess('A7'));
-
-// view.displayMessage("Some message..");
-// view.displayHit("35");
-// view.displayMiss("23");
